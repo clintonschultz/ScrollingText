@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">European fossils may belong to earliest known hominid</string>
+    <string name="article_subtitle">Graecopithecus’ teeth suggest it was part of the human evolutionary family, researchers argue</string>
+    <string name="article_text">Europe, not Africa, might have spawned the first members of the human evolutionary family around 7 million years ago, researchers say.
+        \n\n
+        Tooth characteristics of a chimpanzee-sized primate that once lived in southeastern Europe suggest that the primate, known as Graecopithecus, may have been a hominid, not an ape as many researchers assume. One tooth in particular, the second lower premolar, is telling. It features two partially fused roots, a trait characteristic of early hominids but not ancient apes, a team led by geoscientist Jochen Fuss of the University of Tübingen in Germany reports May 22 in PLOS ONE.
+        \n\n
+        Scientists suspect the first hominids appeared sometime between 8 million and 6 million years ago. New age estimates for previously discovered fossils position Graecopithecus as potentially the earliest known hominid, the investigators suggest. A Graecopithecus lower jaw, found in Athens with most teeth still in their sockets, dates to around 7.175 million years ago, a group led by Tübingen geoscientist Madelaine Böhme reports May 22 in a separate paper in PLOS ONE. An isolated Graecopithecus tooth from Bulgaria, an upper second premolar, dates to approximately 7.24 million years ago, the scientists say.
+        \n\n
+        Armed with only jaw and tooth fossils, the investigators don’t have a slam-dunk case for pegging Graecopithecus as a hominid. Although sediment analyses date both finds to around the time of hominid origins, it’s not known whether this creature regularly walked upright, a signature hominid behavior.
+        \n\n
+        For now, there is no way to know whether Graecopithecus jaws and teeth belonged to an ape with some hominid-like features or a hominid with some apelike features, says paleoanthropologist Bernard Wood of George Washington University in Washington, D.C. \“My guess is the former.\”
+        \n\n
+        But fossil evidence of hominid origins in Africa is also sparse and controversial (SN: 4/9/05, p. 227), says paleoanthropologist David Begun of the University of Toronto, a coauthor of Fuss’ study. That debate has focused on fossils from two potential hominid lines dating to between about 7 million and 6 million years ago, Sahelanthropus and Orrorin. “Europe is as likely a place of [hominid] origins, and even of the last common ancestor of chimpanzees and humans, as Africa,” he says.
+        \n\n
+        Many mammals, including apes, giraffes, antelopes and hippos, lived in Africa and in Europe’s eastern Mediterranean region between 9 million and 7 million years ago, Begun says. These creatures probably moved back and forth between continents, he holds, making it difficult to pin down where each line of animals originated. Graecopithecus could have evolved in either Europe or Africa, Begun contends.
+        \n\n
+        Begun and colleagues used a special CT scanning device to produce 3-D versions of Graecopithecus teeth, including roots hidden by the jawbone. Among several similarities of Graecopithecus teeth to those of early hominids, partial fusion of the second premolar root stands out, the researchers say. Previous studies have suggested that genes tightly control the number of premolar roots, meaning that this trait doesn’t change much in response to environmental conditions. In that case, root fusion in Graecopithecus, as found in later fossil hominids, indicates a direct evolutionary connection, Begun says.
+        \n\n
+        Other researchers take a skeptical view of Graecopithecus as a possible hominid. Even among early hominids, the number of premolar roots varies enough to raise serious questions about whether Graecopithecus can be classified among them, says paleoanthropologist Yohannes Haile-Selassie of the Cleveland Museum of Natural History. A team led by Haile-Selassie discovered remains of a 5.8-million- to 5.6-million-year-old East African hominid, Ardipithecus kadabba (SN: 3/6/04, p. 148). Haile-Selassie has argued that Sahelanthropus and Orrorin can be folded into Ar. kadabba, making it the oldest known hominid.
+        \n\n
+        A lack of fossils from chimp and gorilla ancestors contributes to the difficulty of establishing whether creatures such as Graecopithecus and Ar. kadabba are truly hominids, says biological anthropologist Matthew Skinner of the University of Kent in Canterbury, England. Although that leaves Graecopithecus’ evolutionary status unresolved, Skinner agrees with Begun that researchers should look for hominid origins in Europe as well as in Africa.
+        \n\n
+        <b>Questions or comments on this article? E-mail us at feedback@sciencenews.org</b>
+    </string>
+    <string name="add_comment">ADD COMMENT</string>
+</resources>
